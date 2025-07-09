@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d6d95830560e243e6aa4259bb16576f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250971
+  packageName: Reactional Music
+  packageVersion: 1.0
+  assetPath: Assets/Reactional Music/Scripts/Editor/ReactionalMenu.cs
+  uploadId: 689756

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a690c95fbe26ca045a59a07b6352c6f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250971
+  packageName: Reactional Music
+  packageVersion: 1.0
+  assetPath: Assets/Reactional Music/Scripts/Third Party/MiniJSON.cs
+  uploadId: 689756

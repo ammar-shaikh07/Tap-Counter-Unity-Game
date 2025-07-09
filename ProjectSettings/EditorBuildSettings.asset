@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b8cb3e4468186814580cd976fc1b1945
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 5ebf7771db60d1e49a171113190a46b9
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

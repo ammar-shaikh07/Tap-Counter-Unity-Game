@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2f18406f531504d5ab733cfa1c6ef9d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250971
+  packageName: Reactional Music
+  packageVersion: 1.0
+  assetPath: Assets/Reactional Music/Scripts/ReactionalUnityAPI.cs
+  uploadId: 689756

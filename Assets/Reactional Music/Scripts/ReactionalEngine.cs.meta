@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbcd0cc5516da4100adb4b6a71d92ced
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 250971
+  packageName: Reactional Music
+  packageVersion: 1.0
+  assetPath: Assets/Reactional Music/Scripts/ReactionalEngine.cs
+  uploadId: 689756
